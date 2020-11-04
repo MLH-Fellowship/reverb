@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MLH-Fellowship/reverb">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Reverb</h3>
@@ -59,6 +59,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<img src="landing-page.png" alt="Logo" width="800" height="500">
+  </a>
 
 Reverb is a Django-based web app that allows users to discover their favorite songs genres and suggest songs to listen to based on the user's mood.
 
