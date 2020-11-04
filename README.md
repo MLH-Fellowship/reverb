@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MLH-Fellowship/reverb">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Reverb</h3>
@@ -107,10 +107,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Robby Manalo - https://github.com/robmahalo
-Harriet Akot - https://github.com/HarrietAkot
+* Robby Manalo - https://github.com/robmahalo
+* Harriet Akot - https://github.com/HarrietAkot
 
-Project Link: [https://github.com/MLH-Fellowship/reverb](https://github.com/MLH-Fellowship/reverb)
+* Project Link: [https://github.com/MLH-Fellowship/reverb](https://github.com/MLH-Fellowship/reverb)
 
 
 
