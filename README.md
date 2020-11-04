@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/MLH-Fellowship/reverb">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -27,14 +27,14 @@
   <p align="center">
     Discover your genre.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MLH-Fellowship/reverb"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/MLH-Fellowship/reverb">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MLH-Fellowship/reverb/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/MLH-Fellowship/reverb/issues">Request Feature</a>
   </p>
 </p>
 
@@ -93,7 +93,7 @@ Reverb is a Django-based web app that allows users to discover their favorite so
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/MLH-Fellowship/reverb/issues) for a list of proposed features (and known issues).
 
 
 
@@ -107,9 +107,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Robby Manalo - https://github.com/robmahalo
+Harriet Akot - https://github.com/HarrietAkot
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/MLH-Fellowship/reverb](https://github.com/MLH-Fellowship/reverb)
 
 
 
