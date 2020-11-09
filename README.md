@@ -1,4 +1,4 @@
-# Simple-Music-Recommender-System
+# Reverb
 
 ## Installation
 ```
